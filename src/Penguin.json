@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "African-Penguin.jpg"
+  },
+  {
+    "id": 2,
+    "image": "Chinstrap-Penguin.jpg"    
+  },
+  {
+    "id": 3,
+    "image": "emperor-penguin.jpg"
+  },
+  {
+    "id": 4,
+    "image": "Fiordland-Crested-Penguin.jpg" 
+  },
+  {
+    "id": 5,
+    "image": "Galapagos-Penguin.jpg"
+  },
+  {
+    "id": 6,
+    "image": "gentoo-penguins.jpg"
+  },
+  {
+    "id": 7,
+    "image": "Magellanic-Penguin.jpg"
+  },
+  {
+    "id": 8,
+    "image": "northern-rockhopper-penguin.jpg"
+  },
+  {
+    "id": 9,
+    "image": "royal-penguin.jpg"
+  },
+  {
+    "id": 10,
+    "image": "southern-rockhopper-penguin.jpg"
+  },
+  {
+    "id": 11,
+    "image": "yellow-eyed-penguin.jpg"
+  },
+  {
+    "id": 12,
+    "image": "snares-penguin.jpg"
+  }
+]
